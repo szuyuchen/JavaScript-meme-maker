@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Crimson Text', serif;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 50px;
+  margin: 20px 0;
+}
+
+p {
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.meme-creator {
+  text-align: center;
+}
+
+.meme-creator img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.meme-title {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.meme-creator .create-meme-btn {
+  padding: 8px 20px;
+  margin: 30px 0;
+  font-size: 18px;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  background: rgb(92, 118, 238);
+  transition: all 300ms ease;
+  cursor: pointer;
+}
+
+.meme-creator .create-meme-btn:hover {
+  padding: 8px 30px;
+  letter-spacing: 1px;
+}
+
+.meme-creator .meme-author {
+  font-size: 15px;
+}
