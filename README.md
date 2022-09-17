@@ -4,7 +4,7 @@
 
 - Use meme API to create a series of random meme image.
 
-<img src="https://github.com/szuyuchen/meme-maker/blob/main/sample-img.png?raw=true" width=500>
+<img src="https://github.com/szuyuchen/meme-maker/blob/master/sample-img.png?raw=true" width=500>
 
 ### Page link:
 
