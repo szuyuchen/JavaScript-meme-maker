@@ -10,7 +10,7 @@
 
 https://szuyuchen.github.io/Bootstrap5-landing-page-ver2/
 
-### Tools:
+### Tool:
 
 - Meme API : https://github.com/D3vd/Meme_Api
 
