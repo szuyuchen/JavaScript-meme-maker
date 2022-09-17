@@ -1,4 +1,4 @@
-# Meme Creator
+# JavaScript-meme-maker
 
 ### Purpose: 
 
